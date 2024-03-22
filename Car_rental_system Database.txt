@@ -24,7 +24,7 @@ Payment Table:
 DECIMAL(10, 2), FOREIGN KEY (leaseID) REFERENCES Lease(leaseID) );
  
 
---->Insertion Of Values:
+--->Insertion Of Values in created tables:
 
 Vehicle Table:
 
