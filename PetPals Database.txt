@@ -9,6 +9,8 @@
 3. Define appropriate primary keys, foreign keys, and constraints.
 4. Ensure the script handles potential errors, such as if the database or tables already exist.
 
+creating tables:
+
 --Pets Table:
 
 CREATE TABLE IF NOT EXISTS Pets (

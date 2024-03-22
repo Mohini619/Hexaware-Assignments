@@ -39,6 +39,8 @@ applicant has more than 2 years of experience. For example: city=Chennai
 Create database careerhub;
 
 						ANSWERS
+creating tables:
+
 
 CREATE TABLE Companies (
     CompanyID INT PRIMARY KEY,
