@@ -1,5 +1,6 @@
 									Coding Challenge - Car Rental System – SQL
 
+creating tables:
 
 Vehicle Table:
 
